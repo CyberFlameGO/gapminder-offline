@@ -73,7 +73,7 @@
     "fs-extra": "7.0.1",
     "git-fetch-pack": "0.1.1",
     "git-transport-protocol": "0.1.0",
-    "is-online": "8.0.0",
+    "is-online": "8.5.1",
     "lodash": "4.17.11",
     "minimist": "1.2.0",
     "node-fetch": "2.3.0",
@@ -90,7 +90,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.800.0",
-    "@angular/cli": "8.0.0",
+    "@angular/cli": "16.2.0",
     "@angular/common": "8.0.0",
     "@angular/compiler": "8.0.0",
     "@angular/compiler-cli": "8.0.0",
